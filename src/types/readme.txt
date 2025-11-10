@@ -1,0 +1,1 @@
+Fungsi: Definisi tipe data untuk TypeScript

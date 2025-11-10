@@ -1,0 +1,1 @@
+Fungsi: Function yang berkomunikasi dengan backend

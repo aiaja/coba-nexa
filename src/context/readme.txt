@@ -1,0 +1,1 @@
+Fungsi: Menyimpan data yang perlu diakses banyak komponen

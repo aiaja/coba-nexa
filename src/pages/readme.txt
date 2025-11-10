@@ -1,0 +1,1 @@
+Fungsi: Halaman lengkap yang user lihat

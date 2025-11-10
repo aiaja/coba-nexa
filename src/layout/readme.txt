@@ -1,0 +1,1 @@
+Fungsi: Struktur layout untuk setiap role

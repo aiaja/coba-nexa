@@ -1,0 +1,1 @@
+Fungsi: Function helper yang sering dipake
